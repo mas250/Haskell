@@ -1,3 +1,5 @@
+-- Check if a list of strings is a mathematical set
+
 contains :: [String]-> String -> Bool
 contains [] word = False
 
